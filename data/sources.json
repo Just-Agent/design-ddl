@@ -1,0 +1,114 @@
+{
+  "topicId": "design-ddl",
+  "generatedAt": "2026-05-15T18:03:01.927Z",
+  "sourcePolicy": "Chinese-first display. Dates are preserved from the hub dataset; crawlers must verify against official pages before strict mode.",
+  "sourceFamilies": [
+    {
+      "id": "uxda",
+      "name": "UX Design Awards",
+      "url": "https://ux-design-awards.com",
+      "adapter": "uxDesignAwardsAdapter",
+      "confidence": "official"
+    },
+    {
+      "id": "if-design",
+      "name": "iF Design Award",
+      "url": "https://ifdesign.com",
+      "adapter": "ifDesignAdapter",
+      "confidence": "official"
+    },
+    {
+      "id": "reddot",
+      "name": "Red Dot Award",
+      "url": "https://www.red-dot.org",
+      "adapter": "redDotAdapter",
+      "confidence": "official"
+    },
+    {
+      "id": "awwwards",
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com",
+      "adapter": "awwwardsAdapter",
+      "confidence": "official-aggregator"
+    }
+  ],
+  "itemSources": [
+    {
+      "name": "UX Design Awards",
+      "url": "https://ux-design-awards.com",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Core77 Design Awards",
+      "url": "https://designawards.core77.com",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "iF Design",
+      "url": "https://ifdesign.com",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Red Dot",
+      "url": "https://www.red-dot.org",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Service Design Network",
+      "url": "https://www.service-design-network.org",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Interaction Awards",
+      "url": "https://awards.ixda.org",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Figma Community",
+      "url": "https://www.figma.com/community",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Adobe Creative Cloud Events",
+      "url": "https://event.adobe.com/creativejamaustin",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    },
+    {
+      "name": "ux-design-awards.com",
+      "url": "https://ux-design-awards.com",
+      "type": "item-source",
+      "confidence": "official-or-official-entry",
+      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
+    }
+  ]
+}
