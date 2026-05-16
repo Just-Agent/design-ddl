@@ -1,12 +1,12 @@
 {
   "topicId": "design-ddl",
-  "generatedAt": "2026-05-15T23:49:10.107Z",
+  "generatedAt": "2026-05-16T08:17:27.629Z",
   "sourcePolicy": "Chinese-first display. Dates are preserved from the hub dataset; crawlers must verify against official pages before strict mode.",
   "sourceFamilies": [
     {
       "id": "uxda",
       "name": "UX Design Awards",
-      "url": "https://ux-design-awards.com",
+      "url": "https://ux-design-awards.com/enter/dates",
       "adapter": "uxDesignAwardsAdapter",
       "confidence": "official"
     },

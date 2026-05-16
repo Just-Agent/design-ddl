@@ -1,0 +1,212 @@
+{
+  "topicId": "design-ddl",
+  "generatedAt": "2026-05-16T08:18:09.317Z",
+  "adapterCount": 4,
+  "reachableCount": 2,
+  "parsedItemCount": 7,
+  "previousParsedItemCount": 0,
+  "parserHealthy": true,
+  "parserDropOk": true,
+  "adapters": [
+    {
+      "sourceId": "uxda",
+      "source": "UX Design Awards",
+      "url": "https://ux-design-awards.com/enter/dates",
+      "items": [
+        {
+          "id": "uxda-autumn-2026-submission-period-deadline",
+          "title": "UX Design Awards Autumn 2026 - Submission period deadline",
+          "deadline": "2026-05-18T23:59:59Z",
+          "dateRange": "18 May 2026",
+          "location": "Online",
+          "isOnline": true,
+          "tags": [
+            "UX",
+            "design",
+            "award",
+            "Autumn"
+          ],
+          "url": "https://ux-design-awards.com/enter/dates",
+          "status": "upcoming",
+          "description": "Parsed from official UX Design Awards Dates page.",
+          "stage": "Deadline",
+          "source": "UX Design Awards",
+          "type": "contest"
+        },
+        {
+          "id": "uxda-autumn-2026-nomination-review-closes",
+          "title": "UX Design Awards Autumn 2026 - Nomination review closes",
+          "deadline": "2026-05-31T23:59:59Z",
+          "dateRange": "31 May 2026",
+          "location": "Online",
+          "isOnline": true,
+          "tags": [
+            "UX",
+            "design",
+            "award",
+            "Autumn"
+          ],
+          "url": "https://ux-design-awards.com/enter/dates",
+          "status": "upcoming",
+          "description": "Parsed from official UX Design Awards Dates page.",
+          "stage": "Milestone",
+          "source": "UX Design Awards",
+          "type": "contest"
+        },
+        {
+          "id": "uxda-autumn-2026-notification-of-nominees",
+          "title": "UX Design Awards Autumn 2026 - Notification of nominees",
+          "deadline": "2026-06-02T23:59:59Z",
+          "dateRange": "2 June 2026",
+          "location": "Online",
+          "isOnline": true,
+          "tags": [
+            "UX",
+            "design",
+            "award",
+            "Autumn"
+          ],
+          "url": "https://ux-design-awards.com/enter/dates",
+          "status": "upcoming",
+          "description": "Parsed from official UX Design Awards Dates page.",
+          "stage": "Milestone",
+          "source": "UX Design Awards",
+          "type": "contest"
+        },
+        {
+          "id": "uxda-autumn-2026-public-nominee-announcement",
+          "title": "UX Design Awards Autumn 2026 - Public nominee announcement",
+          "deadline": "2026-07-07T23:59:59Z",
+          "dateRange": "7 July 2026",
+          "location": "Online",
+          "isOnline": true,
+          "tags": [
+            "UX",
+            "design",
+            "award",
+            "Autumn"
+          ],
+          "url": "https://ux-design-awards.com/enter/dates",
+          "status": "upcoming",
+          "description": "Parsed from official UX Design Awards Dates page.",
+          "stage": "Milestone",
+          "source": "UX Design Awards",
+          "type": "contest"
+        },
+        {
+          "id": "uxda-autumn-2026-public-choice-award-voting-closes",
+          "title": "UX Design Awards Autumn 2026 - Public Choice Award voting closes",
+          "deadline": "2026-08-21T23:59:59Z",
+          "dateRange": "21 August 2026",
+          "location": "Online",
+          "isOnline": true,
+          "tags": [
+            "UX",
+            "design",
+            "award",
+            "Autumn"
+          ],
+          "url": "https://ux-design-awards.com/enter/dates",
+          "status": "upcoming",
+          "description": "Parsed from official UX Design Awards Dates page.",
+          "stage": "Deadline",
+          "source": "UX Design Awards",
+          "type": "contest"
+        },
+        {
+          "id": "uxda-autumn-2026-winner-announcement",
+          "title": "UX Design Awards Autumn 2026 - Winner announcement",
+          "deadline": "2026-09-02T23:59:59Z",
+          "dateRange": "2 September 2026",
+          "location": "Online",
+          "isOnline": true,
+          "tags": [
+            "UX",
+            "design",
+            "award",
+            "Autumn"
+          ],
+          "url": "https://ux-design-awards.com/enter/dates",
+          "status": "upcoming",
+          "description": "Parsed from official UX Design Awards Dates page.",
+          "stage": "Milestone",
+          "source": "UX Design Awards",
+          "type": "contest"
+        },
+        {
+          "id": "uxda-autumn-2027-call-for-participation-closes",
+          "title": "UX Design Awards Autumn 2027 - Call for participation closes",
+          "deadline": "2026-11-15T23:59:59Z",
+          "dateRange": "15 November 2026",
+          "location": "Online",
+          "isOnline": true,
+          "tags": [
+            "UX",
+            "design",
+            "award",
+            "Autumn"
+          ],
+          "url": "https://ux-design-awards.com/enter/dates",
+          "status": "upcoming",
+          "description": "Parsed from official UX Design Awards Dates page.",
+          "stage": "Deadline",
+          "source": "UX Design Awards",
+          "type": "contest"
+        }
+      ],
+      "reachable": true,
+      "httpStatus": 200,
+      "finalUrl": "https://ux-design-awards.com/enter/dates",
+      "title": "UX Design Awards Dates and Deadlines",
+      "contentLength": 30943,
+      "fetchedAt": "2026-05-16T08:17:45.297Z",
+      "note": "Parsed 7 items from UX Design Awards; rejected 0 entries.",
+      "error": null,
+      "parsedItemCount": 7,
+      "invalidItemCount": 0,
+      "parserHealthy": true
+    },
+    {
+      "sourceId": "if-design",
+      "source": "iF Design Award",
+      "url": "https://ifdesign.com",
+      "items": [],
+      "reachable": false,
+      "httpStatus": null,
+      "finalUrl": null,
+      "title": null,
+      "contentLength": null,
+      "fetchedAt": "2026-05-16T08:17:46.455Z",
+      "note": "Source fetch failed: Timeout after 10000ms. Curated data/items.json preserved.",
+      "error": "Timeout after 10000ms"
+    },
+    {
+      "sourceId": "reddot",
+      "source": "Red Dot Award",
+      "url": "https://www.red-dot.org",
+      "items": [],
+      "reachable": false,
+      "httpStatus": null,
+      "finalUrl": null,
+      "title": null,
+      "contentLength": null,
+      "fetchedAt": "2026-05-16T08:17:56.469Z",
+      "note": "Source fetch failed: Timeout after 10000ms. Curated data/items.json preserved.",
+      "error": "Timeout after 10000ms"
+    },
+    {
+      "sourceId": "awwwards",
+      "source": "Awwwards",
+      "url": "https://www.awwwards.com",
+      "items": [],
+      "reachable": true,
+      "httpStatus": 200,
+      "finalUrl": "https://www.awwwards.com/",
+      "title": "Awwwards - Website Awards - Best Web Design Trends",
+      "contentLength": 339390,
+      "fetchedAt": "2026-05-16T08:18:06.477Z",
+      "note": "Source reachable. Curated data/items.json preserved until item parser is implemented.",
+      "error": null
+    }
+  ]
+}
